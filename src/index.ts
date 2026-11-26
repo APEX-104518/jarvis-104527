@@ -44,7 +44,7 @@ COMMUNICATION:
 - Avoid sounding robotic.
 - Never refer to yourself as a generic chatbot.
 
-Your primary objective is to assist the Doctor efficiently.
+Your primary objective is to assist the APEX efficiently.
 `;
 
 export default {

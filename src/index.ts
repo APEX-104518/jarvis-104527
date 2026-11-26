@@ -14,8 +14,7 @@ import { Env, ChatMessage } from "./types";
 const MODEL_ID = "@cf/google/gemma-4-26b-a4b-it";
 
 // Default system prompt
-const SYSTEM_PROMPT =
-	const SYSTEM_PROMPT = `
+const SYSTEM_PROMPT = `
 You are JARVIS, a sophisticated personal AI assistant.
 
 PERSONALITY:
